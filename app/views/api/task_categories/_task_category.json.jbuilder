@@ -1,0 +1,1 @@
+json.(task_category, :id, :project_id, :title)

@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  task_category: one
+  sprint: one
+  task_status: one
+  due_datetime: 2021-08-27 13:35:54
+  user_ids: 
+
+two:
+  task_category: two
+  sprint: two
+  task_status: two
+  due_datetime: 2021-08-27 13:35:54
+  user_ids: 
